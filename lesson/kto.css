@@ -1,0 +1,19 @@
+div h1 {
+    background-color: black;
+}
+div h1 {
+    color: white;
+}
+div ul {
+    background-color: olivedrab;
+    width: 1600px;
+}
+div ul span {
+    font-size: 25px;
+}
+div h1 span {
+    font-size: 40px;
+}
+div h2 span {
+    font-size: 30px;
+}
